@@ -1,0 +1,14 @@
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\Sistema_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\Sistema_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\Sistema_Estacionamento.AssemblyInfo.cs
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\Sistema_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\bin\Debug\net8.0\Sistema_Estacionamento.exe
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\bin\Debug\net8.0\Sistema_Estacionamento.deps.json
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\bin\Debug\net8.0\Sistema_Estacionamento.runtimeconfig.json
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\bin\Debug\net8.0\Sistema_Estacionamento.dll
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\bin\Debug\net8.0\Sistema_Estacionamento.pdb
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\Sistema_Estacionamento.dll
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\refint\Sistema_Estacionamento.dll
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\Sistema_Estacionamento.pdb
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\Sistema_Estacionamento.genruntimeconfig.cache
+C:\Users\banna\OneDrive\Área de Trabalho\Estudos\Projetos\Sistema_Estacionamento\obj\Debug\net8.0\ref\Sistema_Estacionamento.dll
